@@ -1,0 +1,12 @@
+button {
+  background-color: rgb(143, 185, 188);
+  font-size: medium;
+  color: rgb(27, 27, 27);
+  border-radius: 10px;
+  border-style: none;
+  width: 100px;
+  
+}
+img {
+  width: 32%;
+}
